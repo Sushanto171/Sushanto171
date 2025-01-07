@@ -56,6 +56,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
 </div>
 
+---
+
 ✨ **"Every line of code brings an idea to life!"**
 
 ### 🚀 **Let me know if you want further tweaks!** 😊
