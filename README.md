@@ -9,7 +9,7 @@
 ## 📚 **About Me**
 
 - 🎓 **Education:** Pursuing **BSc in Botany**  
-- 💻 **Frontend Developer:** Skilled in **React.js**, **TailwindCSS**, and **Express.js**  
+- 💻 **Frontend Developer:** Skilled in **React.js**, **TailwindCSS** 
 - 🌐 **Backend Developer:** Experienced with **Express.js** and **MongoDB** for building scalable backend systems  
 - 📚 **Currently Learning:** **Google OAuth Integration** and advanced backend strategies  
 - 🎯 **Goal:** Build user-friendly, efficient, and scalable web applications  
