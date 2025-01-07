@@ -2,13 +2,9 @@
   <img height="200" src="https://raw.githubusercontent.com/Sushanto171/Sushanto171/refs/heads/main/github_initial.png" />
 </div>
 
----
-
 # 👋 Hi, I’m **Sushanto Chandra Sharkar**
 
 🌟 **Frontend Developer | Botany Student | Tech Enthusiast**
-
----
 
 ## 📚 **About Me**
 
@@ -18,8 +14,6 @@
 - 📚 **Currently Learning:** **Google OAuth Integration** and advanced backend strategies  
 - 🎯 **Goal:** Build user-friendly, efficient, and scalable web applications  
 - 📧 **Email:** [sushantochandrasharkar171@gmail.com](mailto:sushantochandrasharkar171@gmail.com)  
-
----
 
 ## 🤝 **Connect With Me**
 
@@ -31,8 +25,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" />
   </a>
 </div>
-
----
 
 ## 💻 **I Code With**
 
@@ -56,8 +48,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo" />
 </div>
 
----
-
 ## 🛠️ **I Use Tools**
 
 <div align="left">
@@ -66,10 +56,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
 </div>
 
----
-
 ✨ **"Every line of code brings an idea to life!"**
-
----
 
 ### 🚀 **Let me know if you want further tweaks!** 😊
