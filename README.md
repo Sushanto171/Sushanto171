@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">🎓 Education: Pursuing BSc in Botany.<br>💻 Frontend Developer: Skilled in React.js, TailwindCSS, and DaisyUI.<br>🌐 Backend Developer: Experienced with Express.js and MongoDB for building scalable backend systems.<br>📚 Currently Learning: Google OAuth Integration and advanced backend strategies.<br>🎯 Goal: Build user-friendly, efficient, and scalable web applications.<br>📧 Email: [sushantochandrasharkar171@gmail.com](mailto:your-email@example.com)  </p>
+<p align="left">🎓 Education: Pursuing BSc in Botany.<br>💻 Frontend Developer: Skilled in React.js, TailwindCSS, and DaisyUI.<br>🌐 Backend Developer: Experienced with Express.js and MongoDB for building scalable backend systems.<br>📚 Currently Learning: Google OAuth Integration and advanced backend strategies.<br>🎯 Goal: Build user-friendly, efficient, and scalable web applications.<br>📧 **Email: [sushantochandrasharkar171@gmail.com](mailto:your-email@example.com)**  </p>
 
 ###
 
