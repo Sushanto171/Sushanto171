@@ -6,18 +6,22 @@
 
 🌟 **Frontend Developer | Botany Student | Tech Enthusiast**
 
+---
+
 ## 📚 **About Me**
 
 - 🎓 **Education:** Pursuing **BSc in Botany**  
-- 💻 **Frontend Developer:** Skilled in **React.js**, **TailwindCSS** 
+- 💻 **Frontend Developer:** Skilled in **React.js**, **TailwindCSS**  
 - 🌐 **Backend Developer:** Experienced with **Express.js** and **MongoDB** for building scalable backend systems  
 - 📚 **Currently Learning:** **Google OAuth Integration** and advanced backend strategies  
 - 🎯 **Goal:** Build user-friendly, efficient, and scalable web applications  
 - 📧 **Email:** [sushantochandrasharkar171@gmail.com](mailto:sushantochandrasharkar171@gmail.com)  
 
+---
+
 ## 🤝 **Connect With Me**
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/sushanto-chandra-sharkar-144b95339/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
@@ -26,9 +30,11 @@
   </a>
 </div>
 
+---
+
 ## 💻 **I Code With**
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
@@ -48,20 +54,29 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo" />
 </div>
 
+---
+
 ## 🛠️ **I Use Tools**
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
 </div>
 
 ---
-![Sushanto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sushanto171&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sushanto171&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sushanto171&layout=compact&theme=radical)
 
+## 📊 **GitHub Stats**
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sushanto171&show_icons=true&theme=radical" alt="Sushanto's GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sushanto171&theme=radical" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushanto171&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+---
 
 ✨ **"Every line of code brings an idea to life!"**
 
