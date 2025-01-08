@@ -17,7 +17,6 @@
 - 🎯 **Goal:** Build user-friendly, efficient, and scalable web applications  
 - 📧 **Email:** [sushantochandrasharkar171@gmail.com](mailto:sushantochandrasharkar171@gmail.com)  
 
----
 
 ## 🤝 **Connect With Me**
 
@@ -30,7 +29,6 @@
   </a>
 </div>
 
----
 
 ## 💻 **I Code With**
 
@@ -54,7 +52,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo" />
 </div>
 
----
 
 ## 🛠️ **I Use Tools**
 
@@ -64,19 +61,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
 </div>
 
----
 
 ## 📊 **GitHub Stats**
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sushanto171&show_icons=true&theme=radical" alt="Sushanto's GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sushanto171&theme=radical" alt="GitHub Streak" />
-  <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushanto171&layout=compact&theme=radical" alt="Top Languages" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sushanto171&theme=radical" alt="GitHub Streak" />
 </div>
 
----
 
 ✨ **"Every line of code brings an idea to life!"**
 
