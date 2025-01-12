@@ -2,7 +2,7 @@
   <img height="200" src="https://raw.githubusercontent.com/Sushanto171/Sushanto171/refs/heads/main/github_initial.png" />
 </div>
 
-# 👋 Hi, I’m **Sushanto Chandra Sharkar**
+# 👋 Hi, I’m **Sushanto kumar**
 
 🌟 **Frontend Developer | Botany Student | Tech Enthusiast**
 
@@ -15,7 +15,7 @@
 - 🌐 **Backend Developer:** Experienced with **Express.js** and **MongoDB** for building scalable backend systems  
 - 📚 **Currently Learning:** **Google OAuth Integration** and advanced backend strategies  
 - 🎯 **Goal:** Build user-friendly, efficient, and scalable web applications  
-- 📧 **Email:** [sushantochandrasharkar171@gmail.com](mailto:sushantochandrasharkar171@gmail.com)  
+- 📧 **Email:** [sushantokumar171@gmail.com](mailto:sushantokumar171@gmail.com)  
 - 🔗 **Portfolio:** [Explore My Work](https://sushanto-chandra-sharkar.netlify.app)
 
 
