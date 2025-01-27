@@ -16,7 +16,7 @@
 - 📚 **Currently Learning:** **Google OAuth Integration** and advanced backend strategies  
 - 🎯 **Goal:** Build user-friendly, efficient, and scalable web applications  
 - 📧 **Email:** [sushantokumar171@gmail.com](mailto:sushantokumar171@gmail.com)  
-- 🔗 **Portfolio:** [Explore My Work](https://sushanto-chandra-sharkar.netlify.app)
+- 🔗 **Portfolio:** [Explore My Work](https://sushanto-kumar.netlify.app/)
 
 
 ## 🤝 **Connect With Me**
