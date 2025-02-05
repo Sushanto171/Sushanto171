@@ -17,7 +17,7 @@
 - 🎯 **Goal:** Build user-friendly, efficient, and scalable web applications  
 - 📧 **Email:** [sushantokumar171@gmail.com](mailto:sushantokumar171@gmail.com)  
 - 🔗 **Portfolio:** [Explore My Work](https://sushanto-kumar.netlify.app/)
-- 📞 **Phone:** 01791407583
+- 📞 **Phone:** <a type="tel">01791407583</a>
 
 
 ## 🤝 **Connect With Me**
