@@ -4,7 +4,7 @@
    
   <img height="200" src="https://raw.githubusercontent.com/Sushanto171/Sushanto171/main/github_initial.png" />
 <h1 align="center"> 
-![Waving Hand](https://upload.wikimedia.org/wikipedia/commons/6/6f/Emoji_u1f44b.svg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Emoji_u1f44b.svg"/>
   Hi, I'm <strong>Sushanto Kumar</strong>
 </h1>
   <p align="center" >🚀 Web Developer | 🌿 Botany Student | 🌟 Tech Enthusiast </p>
