@@ -3,10 +3,13 @@
    <br/>
    
   <img height="200" src="https://raw.githubusercontent.com/Sushanto171/Sushanto171/main/github_initial.png" />
-  <h1 align="center"> Hi, I'm <strong >Sushanto Kumar</strong></h1>
+<h1 align="center"> 
+  <img src="https://your-gif-url-here.gif" alt="Animated Icon" width="40" height="40" /> 
+  Hi, I'm <strong>Sushanto Kumar</strong>
+</h1>
   <p align="center" >🚀 Web Developer | 🌿 Botany Student | 🌟 Tech Enthusiast </p>
   <br/>
-   <br/>
+  <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=Sushanto171&theme=onedark&no-frame=false&margin-w=10" alt="GitHub Trophies" />
 </div>
 
