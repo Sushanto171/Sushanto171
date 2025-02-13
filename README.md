@@ -1,10 +1,10 @@
-<div align="center">
+<div >
    <img src="https://komarev.com/ghpvc/?username=Sushanto171&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views Counter"/>
    <br>
    
   <img height="200" src="https://raw.githubusercontent.com/Sushanto171/Sushanto171/main/github_initial.png" />
-  <h1> Hi, I'm <strong >Sushanto Kumar</strong></h1>
-  <p >🌟 Web Developer | Botany Student | Tech Enthusiast</p>
+  <h1 align="center"> Hi, I'm <strong >Sushanto Kumar</strong></h1>
+  <p align="center" >🌟 Web Developer | 🌿 Botany Student | 🌟 Tech Enthusiast </p>
   <br/>
   
   <img src="https://github-profile-trophy.vercel.app/?username=Sushanto171&theme=onedark&no-frame=false&margin-w=10" alt="GitHub Trophies" />
