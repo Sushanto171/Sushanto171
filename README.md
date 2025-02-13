@@ -60,13 +60,22 @@
 ---
 
 ### 📊 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sushanto171&theme=radical" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Sushanto171&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushanto171&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sushanto171&theme=radical" alt="GitHub Streak"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Sushanto171&show_icons=true&theme=radical" alt="GitHub Stats"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushanto171&layout=compact&theme=radical" alt="Top Languages"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 ---
 
