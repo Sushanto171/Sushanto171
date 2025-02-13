@@ -17,7 +17,9 @@
 
 ### 📚 **About Me**  
 I'm **Sushanto Kumar**, a passionate **web developer** and **Botany student** pursuing a **BSc in Botany**. Skilled in **React.js, Next.js, TailwindCSS, Express.js, and MongoDB**, I love building **user-friendly, efficient, and scalable web applications**.
+
 <br/>
+
 • 📌 **Currently, I'm exploring:** **Next.js** to enhance my full-stack development skills.  
 • 📧 **Email:** [sushantokumar171@gmail.com](mailto:sushantokumar171@gmail.com)  
 • 🔗 **Portfolio:** [Explore My Work](https://sushanto-kumar.netlify.app/)  
