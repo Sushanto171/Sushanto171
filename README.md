@@ -1,10 +1,13 @@
 <div align="center">
-   <img src="https://komarev.com/ghpvc/?username=Sushanto171&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views Counter"/>
-  <img height="200" src="https://raw.githubusercontent.com/Sushanto171/Sushanto171/refs/heads/main/github_initial.png" />
+   <img src="https://komarev.com/ghpvc/?username=Sushanto171&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views Counter"/>
+   <br>
+   
+  <img height="200" src="https://raw.githubusercontent.com/Sushanto171/Sushanto171/main/github_initial.png" />
   <h1> Hi, I'm <strong >Sushanto Kumar</strong></h1>
   <p >🌟 Frontend Developer | Botany Student | Tech Enthusiast</p>
   <br/>
-    <img src="https://github-profile-trophy.vercel.app/?username=Sushanto171&theme=onedark&no-frame=true&margin-w=10" alt="GitHub Trophies" />
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=Sushanto171&theme=onedark&no-frame=false&margin-w=10" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -17,7 +20,7 @@
 - 🎯 **Goal:** Build user-friendly, efficient, and scalable web applications  
 - 📧 **Email:** [sushantokumar171@gmail.com](mailto:sushantokumar171@gmail.com)  
 - 🔗 **Portfolio:** [Explore My Work](https://sushanto-kumar.netlify.app/)  
-- 📞 **Phone:** <a type="tel">+8801791407583</a>  
+- 📞 **Phone:** <a href="tel:+8801791407583">+8801791407583</a>  
 
 ---
 
