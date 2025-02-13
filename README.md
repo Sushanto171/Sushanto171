@@ -67,8 +67,8 @@
 <div align="center">
   <table>
     <tr>
-      <td>[
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sushanto171&theme=radical" alt="GitHub Streak"/>](https://camo.githubusercontent.com/3c9a9d685c71eeeb1a63b4e978fc08565bd1cabbe1d49e2ff45756bd3b990bde/68747470733a2f2f6e69727a616b2d73747265616b2d73746174732e76657263656c2e6170702f3f757365723d4e69727a616b267468656d653d746f6b796f6e6967687426686964655f626f726465723d74727565)
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sushanto171&theme=radical" alt="GitHub Streak"/>
       </td>
       <td>
         <img src="https://github-readme-stats.vercel.app/api?username=Sushanto171&show_icons=true&theme=radical" alt="GitHub Stats"/>
