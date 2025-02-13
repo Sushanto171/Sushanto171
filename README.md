@@ -4,7 +4,7 @@
    
   <img height="200" src="https://raw.githubusercontent.com/Sushanto171/Sushanto171/main/github_initial.png" />
 <h1 align="center"> 
- <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Realistic Waving Hand Icon" width="40" height="40" />
+ :wave:	
   Hi, I'm <strong>Sushanto Kumar</strong>
 </h1>
   <p align="center" >🚀 Web Developer | 🌿 Botany Student | 🌟 Tech Enthusiast </p>
