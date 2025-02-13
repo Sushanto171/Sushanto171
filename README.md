@@ -12,15 +12,12 @@
 
 ---
 
-### 📚 **About Me**
-- 🎓 **Education:** Pursuing **BSc in Botany**  
-- 💻 **Frontend Developer:** Skilled in **React.js**, **Next.js**, **TailwindCSS**  
-- 🌐 **Backend Developer:** Experienced with **Express.js** and **MongoDB**  
-- 🚀 **Currently Learning:** **NextJS**  
-- 🎯 **Goal:** Build user-friendly, efficient, and scalable web applications  
-- 📧 **Email:** [sushantokumar171@gmail.com](mailto:sushantokumar171@gmail.com)  
-- 🔗 **Portfolio:** [Explore My Work](https://sushanto-kumar.netlify.app/)  
-- 📞 **Phone:** <a href="tel:+8801791407583">+8801791407583</a>  
+### 📚 **About Me**  
+I'm **Sushanto Kumar**, a passionate **web developer** and **Botany student** pursuing a **BSc in Botany**. Skilled in **React.js, Next.js, TailwindCSS, Express.js, and MongoDB**, I love building **user-friendly, efficient, and scalable web applications**.   
+-- **Currently, I'm exploring:** **Next.js** to enhance my full-stack development skills.
+-- 📧 **Email:** [sushantokumar171@gmail.com](mailto:sushantokumar171@gmail.com)  
+-- 🔗 **Portfolio:** [Explore My Work](https://sushanto-kumar.netlify.app/)  
+-- 📞 **Phone:** <a href="tel:+8801791407583">+8801791407583</a> 🚀
 
 ---
 
