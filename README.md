@@ -4,7 +4,7 @@
    
   <img height="200" src="https://raw.githubusercontent.com/Sushanto171/Sushanto171/main/github_initial.png" />
 <h1 align="center"> 
-  <img src="https://your-gif-url-here.gif" alt="Animated Icon" width="40" height="40" /> 
+  <img src="https://media.giphy.com/media/26gR2GZg0mlqvpfzK/giphy.gif" alt="Animated Icon" width="40" height="40" /> 
   Hi, I'm <strong>Sushanto Kumar</strong>
 </h1>
   <p align="center" >🚀 Web Developer | 🌿 Botany Student | 🌟 Tech Enthusiast </p>
