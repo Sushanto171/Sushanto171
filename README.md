@@ -20,7 +20,7 @@ I'm **Sushanto Kumar**, a passionate **web developer** and **Botany student** pu
 
 • 📌 **Currently, I'm exploring:** **Next.js** to enhance my full-stack development skills.  
 • 📧 **Email:** [sushantokumar171@gmail.com](mailto:sushantokumar171@gmail.com)  
-• 🔗 **Portfolio:** [Explore My Work](https://sushanto-kumar.netlify.app/)  
+• 🔗 **Portfolio:** [Explore My Work](https://sushantokumar.vercel.app)  
 • 📞 **Phone:** <a href="tel:+8801791407583">+8801791407583</a> 🚀
 
 ---
