@@ -3,9 +3,7 @@
    <br/>
    
   <img src="https://raw.githubusercontent.com/Sushanto171/Sushanto171/main/github-banner.svg" />
-<h1 align="center"> 
-👋 Hi, I'm <strong>Sushanto Kumar</strong>
-</h1>
+
   <p align="center" >🚀 Web Developer | 🌿 Botany Student | 🌟 Tech Enthusiast </p>
   <br/>
   <br/>
