@@ -1,0 +1,183 @@
+<svg width="1000" height="320" viewBox="0 0 1000 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&amp;family=JetBrains+Mono:wght@500&amp;display=swap');
+        
+        .banner-wrapper {
+          width: 1000px;
+          height: 320px;
+          margin: 0;
+          padding: 0;
+          overflow: hidden;
+          background-color: #0d1117;
+          font-family: 'Inter', sans-serif;
+          position: relative;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+        }
+
+        .grid-pattern {
+          position: absolute;
+          inset: 0;
+          background-image: radial-gradient(#30363d 1px, transparent 1px);
+          background-size: 40px 40px;
+          animation: grid-pulse 8s ease-in-out infinite;
+        }
+
+        @keyframes grid-pulse {
+          0%, 100% { opacity: 0.3; transform: scale(1); }
+          50% { opacity: 0.5; transform: scale(1.02); }
+        }
+
+        .scanline {
+          width: 100%;
+          height: 100px;
+          z-index: 5;
+          background: linear-gradient(to bottom, transparent, rgba(88, 166, 255, 0.05), transparent);
+          position: absolute;
+          animation: scan 4s linear infinite;
+        }
+
+        @keyframes scan {
+          from { transform: translateY(-100%); }
+          to { transform: translateY(320px); }
+        }
+
+        /* Technical Logo Watermarks */
+        .tech-logo-bg {
+          position: absolute;
+          filter: grayscale(1) brightness(.6);
+          opacity: 10;
+          pointer-events: none;
+        }
+        .gradient-text {
+          background: linear-gradient(90deg, #58a6ff, #bc8cff, #58a6ff);
+          background-size: 200% auto;
+          -webkit-background-clip: text;
+          -webkit-text-fill-color: transparent;
+          animation: shimmer 5s linear infinite;
+          display: inline;
+        }
+
+        @keyframes shimmer {
+          to { background-position: 200% center; }
+        }
+
+        .floating-path {
+          stroke-dasharray: 1000;
+          stroke-dashoffset: 1000;
+          animation: draw 10s linear infinite forwards;
+        }
+
+        @keyframes draw {
+          0% { stroke-dashoffset: 1000; opacity: 0; }
+          20% { opacity: 0.4; }
+          80% { opacity: 0.4; }
+          100% { stroke-dashoffset: 0; opacity: 0; }
+        }
+
+        .badge {
+          font-family: 'JetBrains Mono', monospace;
+          font-size: 0.75rem;
+          padding: 4px 10px;
+          border-radius: 4px;
+          background: #21262d;
+          border: 1px solid #30363d;
+          color: #8b949e;
+          display: inline-block;
+        }
+
+        /* Standard Tailwind Substitutes for SVG compatibility */
+        .flex { display: flex; }
+        .flex-col { flex-direction: column; }
+        .items-center { align-items: center; }
+        .justify-center { justify-content: center; }
+        .text-center { text-align: center; }
+        .gap-3 { gap: 0.75rem; }
+        .gap-8 { gap: 2rem; }
+        .mb-2 { margin-bottom: 0.5rem; }
+        .mb-6 { margin-bottom: 1.5rem; }
+        .mb-8 { margin-bottom: 2rem; }
+        .w-full { width: 100%; }
+        .grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); }
+        .text-white { color: #ffffff; }
+        .text-gray-400 { color: #9ca3af; }
+        .text-gray-500 { color: #6b7280; }
+        .text-gray-600 { color: #4b5563; }
+        .font-extrabold { font-weight: 800; }
+        .text-4xl { font-size: 2.25rem; line-height: 2.5rem; }
+        .tracking-tight { letter-spacing: -0.025em; }
+        .tracking-widest { letter-spacing: 0.1em; }
+        .uppercase { text-transform: uppercase; }
+      </style>
+
+      <div class="banner-wrapper">
+        <div class="grid-pattern"></div>
+        <div class="scanline"></div>
+
+  <img src="https://cdn.simpleicons.org/react/30363d" class="tech-logo-bg" style="top: 10%; left: 5%; width: 80px;" />
+        <img src="https://cdn.simpleicons.org/nextdotjs/30363d" class="tech-logo-bg" style="bottom: 15%; left: 8%; width: 60px;" />
+        <img src="https://cdn.simpleicons.org/typescript/30363d" class="tech-logo-bg" style="top: 20%; right: 5%; width: 70px;" />
+        <img src="https://cdn.simpleicons.org/nodedotjs/30363d" class="tech-logo-bg" style="bottom: 10%; right: 10%; width: 90px;" />
+        
+        <svg style="position: absolute; inset: 0; width: 100%; height: 100%;">
+          <path class="floating-path" d="M0 80 Q 250 20 500 120 T 1000 80" stroke="#58a6ff" fill="transparent" stroke-width="0.5" />
+          <path class="floating-path" style="animation-delay: -5s" d="M0 240 Q 350 300 700 180 T 1000 240" stroke="#bc8cff" fill="transparent" stroke-width="0.5" />
+        </svg>
+
+        <div style="position: relative; z-index: 10; width: 100%; max-width: 800px; padding: 0 2rem; display: flex; flex-direction: column; align-items: center; text-align: center;">
+          <h1 class="text-4xl font-extrabold text-white mb-2 tracking-tight">
+            Sushanto <div class="gradient-text">Kumar</div>
+          </h1>
+          
+          <p class="text-gray-400 uppercase tracking-widest mb-6" style="font-size: 1.1rem;">
+            FULL-STACK ENGINEER &amp; ReactJS and NextJS Specialist
+          </p>
+
+          <div class="flex gap-3 mb-8">
+            <span class="badge"><img src="https://cdn.simpleicons.org/typescript/8b949e" width="12"/>TypeScript</span>
+            <span class="badge"> <img src="https://cdn.simpleicons.org/react/8b949e" width="12"/> React</span>
+            <span class="badge"> <img src="https://cdn.simpleicons.org/nodedotjs/8b949e" width="12"/> Node.js</span>
+            <span class="badge"> <img src="https://cdn.simpleicons.org/nextdotjs/8b949e" width="12"/> Next.js</span>
+            <span class="badge"> <img src="https://cdn.simpleicons.org/prisma/8b949e" width="12"/> Prisma</span>
+            <span class="badge"> <img src="https://cdn.simpleicons.org/mongodb/8b949e" width="12"/> MongoDB</span>
+                        <span class="badge"> <img src="https://cdn.simpleicons.org/postgresql/8b949e" width="12"/> PostgresSQL</span>
+          </div>
+
+          <div class="w-full" style="border-top: 1px solid #30363d; padding-top: 1.5rem;">
+            <div class="grid">
+              <div class="flex flex-col items-center">
+                <span style="color: #58a6ff; font-weight: bold; font-size: 0.8rem; letter-spacing: 0.1em;">STRATEGY</span>
+                <span style="font-size: 10px; color: #6b7280; margin-top: 4px; text-transform: uppercase;">Scalable Architecture</span>
+              </div>
+              <div class="flex flex-col items-center" style="border-left: 1px solid #30363d; border-right: 1px solid #30363d;">
+                <span style="color: #bc8cff; font-weight: bold; font-size: 0.8rem; letter-spacing: 0.1em;">VELOCITY</span>
+                <span style="font-size: 10px; color: #6b7280; margin-top: 4px; text-transform: uppercase;">Dev Productivity</span>
+              </div>
+              <div class="flex flex-col items-center">
+                <span style="color: #58a6ff; font-weight: bold; font-size: 0.8rem; letter-spacing: 0.1em;">INTEGRITY</span>
+                <span style="font-size: 10px; color: #6b7280; margin-top: 4px; text-transform: uppercase;">Clean Code Design</span>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div style="position: absolute; top: 16px; left: 16px; display: flex; gap: 6px;">
+          
+        </div>
+        
+        <div style="position: absolute; bottom: 16px; right: 24px; display: flex; align-items: center; gap: 8px;">
+          
+          <a href="https://linkedin.com/in/sushantokumar" traget="_blank" class="social-link">
+              <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="20" />
+            </a>
+                    <a href="https://sushantokumar.vercel.app" traget="_blank" class="social-link">
+              <img src="https://avatars.githubusercontent.com/u/174892222?s=400u43cd7b65f4b71e16570973333f4d89150bb8c7004" width="20" />
+            </a>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
