@@ -27,7 +27,7 @@ I'm **Sushanto Kumar**, a passionate **web developer** and **Botany student** pu
 
 ### 🌐 **Connect With Me**
 <p align="center">
-  <a href="https://www.linkedin.com/in/sushanto-kumar171/" target="_blank">
+  <a href="https://www.linkedin.com/in/sushantokumar" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="https://x.com/sushanto171" target="_blank">
