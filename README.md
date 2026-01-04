@@ -4,8 +4,6 @@
    
   <img src="https://raw.githubusercontent.com/Sushanto171/Sushanto171/main/github-banner.svg" />
 
-  <p align="center" >🚀 Web Developer | 🌿 Botany Student | 🌟 Tech Enthusiast </p>
-  <br/>
   <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=Sushanto171&theme=onedark&no-frame=false&margin-w=10" alt="GitHub Trophies" />
 </div>
