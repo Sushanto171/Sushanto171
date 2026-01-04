@@ -2,7 +2,7 @@
    <img src="https://komarev.com/ghpvc/?username=Sushanto171&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views Counter"/>
    <br/>
    
-  <img src="https://raw.githubusercontent.com/Sushanto171/Sushanto171/main/github-banner.svg" />
+  <img src="https://raw.githubusercontent.com/Sushanto171/Sushanto171/main/svgviewer-output(14).svg" />
 
   <p align="center" >🚀 Web Developer | 🌿 Botany Student | 🌟 Tech Enthusiast </p>
   <br/>
