@@ -82,15 +82,16 @@ I'm **Sushanto Kumar**, a passionate **web developer** and **Botany student** pu
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushanto171&layout=compact&theme=radical" alt="Top Languages"/>
       </td>
     </tr>
-     
   </table>
 </div>
 
 ---
+
 ### 📈 **Contribution Graph**
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sushanto171&theme=react-dark" alt="Contribution Graph" />
 </p>
+
 ---
 
 ✨ **"Every line of code brings an idea to life!"** 🚀
